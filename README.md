@@ -1,4 +1,4 @@
-# NIFTY_50_Analysis
+# NIFTY_50_Stocks_Analysis
 About Dataset
 Context:-
 
